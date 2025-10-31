@@ -1,5 +1,7 @@
 C Assignment - Functions and Header Files
------------------------------------------
+Good Afternoon Everyone.
+This is my c assignment
+sem 1
 
 This project includes:
 1. mylib.h / mylib.c  --> Functions for Armstrong, Adams, Prime Palindrome
