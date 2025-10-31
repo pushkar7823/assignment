@@ -1,5 +1,5 @@
 C Assignment - Functions and Header Files
-Good Afternoon Everyone.
+
 This is my c assignment
 sem 1
 
